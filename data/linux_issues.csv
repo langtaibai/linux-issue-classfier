@@ -1,0 +1,98 @@
+description,category
+"My screen is flickering, especially when I open certain applications.",Graphic
+"The video playback is choppy and lags frequently.",Video
+"There is no sound coming from my speakers.",Audio
+"My display resolution is not correct and everything looks stretched.",Graphic
+"The system does not recognize my webcam.",Video
+"I hear crackling noises from my headphones.",Audio
+"My monitor goes blank randomly.",Graphic
+"The video quality is very poor during video calls.",Video
+"My microphone is not being detected.",Audio
+"After updating, my screen brightness controls no longer work.",Graphic
+"Video files are not playing smoothly in any media player.",Video
+"Sound is only coming from one speaker.",Audio
+"My desktop icons are not displaying correctly.",Graphic
+"There is a delay in video when I stream online.",Video
+"My audio output is too low even at max volume.",Audio
+"My screen freezes and I see graphical glitches.",Graphic
+"Online videos have no sound.",Video
+"I cannot adjust the volume from my keyboard.",Audio
+"The display is blurry and hard to read.",Graphic
+"My webcam feed is very dark.",Video
+"Audio cuts out intermittently.",Audio
+"Screen tearing occurs when I move windows around.",Graphic
+"Video files are out of sync with audio.",Video
+"My sound settings reset after every reboot.",Audio
+"Colors on my display are inverted.",Graphic
+"Video calls disconnect frequently.",Video
+"The audio quality is very poor with a lot of static.",Audio
+"My screen resolution options are very limited.",Graphic
+"Live video streams are pixelated.",Video
+"I cannot hear any sound when using Bluetooth headphones.",Audio
+"The screen goes black when I try to watch videos.",Graphic
+"The video lags behind the audio when streaming.",Video
+"My sound card is not being detected.",Audio
+"Display settings revert back after logout.",Graphic
+"Video playback is slow and jerky.",Video
+"I get no sound when connecting through HDMI.",Audio
+"The display flickers when switching between applications.",Graphic
+"Video conferencing software crashes frequently.",Video
+"There is a loud humming noise from the speakers.",Audio
+"Certain colors do not display correctly.",Graphic
+"The webcam resolution is very low.",Video
+"Audio is distorted when playing music.",Audio
+"My screen has a yellow tint.",Graphic
+"Streaming videos buffer constantly.",Video
+"The microphone volume is very low.",Audio
+"The display does not fit the screen properly.",Graphic
+"Downloaded videos won't play.",Video
+"I hear an echo during voice calls.",Audio
+"The screen refresh rate is not optimal.",Graphic
+"The video is grainy and low quality.",Video
+"My audio devices are not listed in settings.",Audio
+"My screen orientation changes randomly.",Graphic
+"Online video calls have poor video quality.",Video
+"No sound is coming from the HDMI output.",Audio
+"The display driver crashes frequently.",Graphic
+"The video player crashes when opening large files.",Video
+"The sound balance is off between left and right channels.",Audio
+"My screen shows artifacts and random lines.",Graphic
+"Video playback stops randomly.",Video
+"I can't use my external microphone.",Audio
+"The display shows only a portion of the screen.",Graphic
+"Live streaming videos lag a lot.",Video
+"There is a popping sound from the speakers.",Audio
+"My screen is stuck at a low resolution.",Graphic
+"The webcam feed is laggy.",Video
+"My USB audio device is not recognized.",Audio
+"After sleep mode, the screen does not wake up.",Graphic
+"Streaming videos have delayed audio.",Video
+"The sound volume fluctuates randomly.",Audio
+"The screen brightness cannot be adjusted.",Graphic
+"The video freezes but audio continues.",Video
+"No sound from internal speakers after unplugging headphones.",Audio
+"The screen is completely black after booting up.",Graphic
+"Streaming video quality is poor and blurry.",Video
+"I can't record any audio.",Audio
+"The screen flickers during video playback.",Graphic
+"Videos load very slowly.",Video
+"My sound settings are not saving.",Audio
+"Display color calibration is off.",Graphic
+"Video conferencing has poor connectivity.",Video
+"Audio output switches randomly between devices.",Audio
+"The screen resolution keeps changing on its own.",Graphic
+"The video pauses and buffers often.",Video
+"My headphones produce no sound.",Audio
+"My screen shows a blue tint.",Graphic
+"Video playback crashes after a few minutes.",Video
+"The audio sounds muffled.",Audio
+"The display does not wake from sleep.",Graphic
+"Video quality drops during calls.",Video
+"Sound skips during playback.",Audio
+"Screen tearing is noticeable during gaming.",Graphic
+"Downloaded videos have no audio.",Video
+"Audio is out of sync with video.",Audio
+"The display is stuck in portrait mode.",Graphic
+"Video calls have audio but no video.",Video
+"My microphone produces no sound.",Audio
+
